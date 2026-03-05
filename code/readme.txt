@@ -13,4 +13,4 @@ Tuning files take in 2 command line arguments:
 
 Example command to run RNN model on the General Nvidia stock data:
 
-py algorithms/RNN.py data/general/Nvidia Datetime False
+py models/RNN.py data/general/Nvidia Datetime False
